@@ -1,0 +1,28 @@
+{
+  "name": "message",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode development",
+    "build-test": "vue-cli-service build --mode test",
+    "build-prod": "vue-cli-service build --mode production",
+    "build-dev": "vue-cli-service build --mode development"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "element-plus": "^1.0.2-beta.54",
+    "process": "^0.11.10",
+    "qs": "^6.10.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "less": "^4.1.1",
+    "less-loader": "^7.3.0",
+    "sass-loader": "^12.1.0"
+  }
+}

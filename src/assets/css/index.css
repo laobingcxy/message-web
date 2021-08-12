@@ -1,0 +1,72 @@
+.tab-header-title {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.tab-header {
+    width: 100%;
+    height: 50px;
+}
+
+.main {
+    box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+    display: flex;
+    width: 80%;
+    height: 595px;
+    justify-content: center;
+    background-color: white;
+    margin: 0 auto;
+
+}
+
+#nav {
+    /*padding: 20px;*/
+    height: 32px;
+    background-color: #335883;
+}
+
+.nav-lgout {
+    width: 50px;
+    position: absolute;
+    right: 40px;
+    top: 13px
+}
+
+#nav a {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+    color: #42b983;
+}
+
+
+.oax_footer {
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    border: 0px none #FFFFFF;
+    /*margin-top: 6px;*/
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    /*top: 60px;*/
+}
+
+.oax_footer_txt {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 29px;
+    text-align: center;
+    color: #515153;
+}
+
+.el-popover.my-popover{
+   font-size: 5px;
+}

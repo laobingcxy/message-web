@@ -1,0 +1,24 @@
+.emoticon-list-cover {
+    position: absolute;
+    top: 190px;
+    right: 200px;
+    margin-top: 20px;
+    width: 400px;
+    height: 190px;
+    overflow: auto;
+    z-index: 10;
+    background-color: red;
+}
+
+.emoticon-list {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.emotion {
+    border: 1px solid #DCE1E6;
+    width: 24px;
+
+}
