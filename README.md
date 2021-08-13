@@ -49,7 +49,7 @@ mysql5.7+
 
 ## 交互流
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/2442600/1628666152785-7bdeb723-a3d2-4538-8f6a-80a432346ad5.png#align=left&display=inline&height=345&margin=%5Bobject%20Object%5D&name=image.png&originHeight=689&originWidth=1158&size=101959&status=done&style=none&width=579)
+![image.png](https://images.gitee.com/uploads/images/2021/0813/211702_41fce345_9425803.png)
 
 ## 功能说明
 
